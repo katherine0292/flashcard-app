@@ -1,0 +1,50 @@
+[
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c001" },
+    "question": "What is the capital of France?",
+    "answer": "Paris",
+    "category": "Geography"
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c002" },
+    "question": "What does HTML stand for?",
+    "answer": "HyperText Markup Language",
+    "category": "Web Development"
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c003" },
+    "question": "What is the time complexity of binary search?",
+    "answer": "O(log n)",
+    "category": "Algorithms"
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c004" },
+    "question": "What is a RESTful API?",
+    "answer": "An architectural style for designing networked applications using HTTP methods (GET, POST, PUT, DELETE) to perform CRUD operations on resources.",
+    "category": "Web Development"
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c005" },
+    "question": "What is the difference between SQL and NoSQL databases?",
+    "answer": "SQL databases use structured tables with fixed schemas and support relations. NoSQL databases (like MongoDB) use flexible document or key-value storage, better suited for unstructured or rapidly changing data.",
+    "category": "Database"
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c006" },
+    "question": "What is React?",
+    "answer": "A JavaScript library developed by Meta for building user interfaces, using a component-based architecture and a virtual DOM for efficient rendering.",
+    "category": "Web Development"
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c007" },
+    "question": "What is the purpose of the CSS box model?",
+    "answer": "It describes how every HTML element is a rectangular box consisting of content, padding, border, and margin, which determines layout and spacing.",
+    "category": "Web Development"
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c008" },
+    "question": "What is Newton's Second Law of Motion?",
+    "answer": "Force equals mass times acceleration (F = ma). The acceleration of an object depends on the net force acting on it and its mass.",
+    "category": "Physics"
+  }
+]
